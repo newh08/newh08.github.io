@@ -1,0 +1,22 @@
+.setting-main__component {
+    margin: 15px 0;
+    padding-bottom: 10px;
+    border-bottom : var(--main-border);
+}
+
+.setting-main__component i {
+    font-size: 20px;
+    margin-right: 20px;
+    opacity: 0.5;
+    width: 30px;
+}
+
+.setting-main__component {
+    display: flex;
+    padding: 15px 0;
+}
+
+.setting-main__component-detail {
+    margin-left: auto;
+    opacity: 0.5;
+}
